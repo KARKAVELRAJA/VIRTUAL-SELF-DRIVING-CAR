@@ -5,7 +5,7 @@
 - Self-driving cars use technology to replace driver assistance with automated safety features to navigate on roads
 - Virtual Self-driving Car is the virtual version of the real Self-driving Car
 - Virtual Self-driving Car uses camera to detect the obstacles and roads, similar to the real Self-driving Car and move accordingly
-- Only difference is that the Virtual Self-driving Car runs in the virtual environment whereas the real Self-driving Car runs in the real world
+- Only difference is that the Virtual Self-driving Car runs on the virtual environment whereas the real Self-driving Car runs on the real world
 - In this project, the Virtual Self-driving Car automatically runs on the virtual environment without driver assistance using the camera to detect the path and move accordingly
 
 -----
