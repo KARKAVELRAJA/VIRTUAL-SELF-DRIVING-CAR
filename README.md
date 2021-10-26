@@ -6,7 +6,7 @@
 - Virtual Self-driving Car is the virtual version of the real Self-driving Car
 - Virtual Self-driving Car uses camera to detect the obstacles and roads, similar to the real Self-driving Car and move accordingly
 - Only difference is that the Virtual Self-driving Car runs in the virtual environment whereas the real Self-driving Car runs in the real world
-- In this project, the car automatically runs on the virtual environment without driver assistance using the camera to detect the path and move accordingly
+- In this project, the Virtual Self-driving Car automatically runs on the virtual environment without driver assistance using the camera to detect the path and move accordingly
 
 -----
 
