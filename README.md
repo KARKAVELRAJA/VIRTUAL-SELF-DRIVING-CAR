@@ -1,6 +1,6 @@
 # VIRTUAL-SELF-DRIVING-CAR
 
-###  VIRTUAL VERSION OF THE SELF-DRIVING CAR THAT CAN DETECT THE OBSTACLES AND MOVE ACCORDINGLY
+###  VIRTUAL VERSION OF THE SELF-DRIVING CAR THAT CAN DETECT THE OBSTACLES, ROADS AND MOVE ACCORDINGLY
 
 - Self-driving cars use technology to replace driver assistance with automated safety features to navigate on roads
 - Virtual Self-driving Car is the virtual version of the real Self-driving Car
